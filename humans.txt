@@ -1,0 +1,51 @@
+
+                            
+/* TEAM */
+
+                            
+Web Developer: Lord Bismark
+
+                            
+Site: https://me.markmixstudios.com
+
+                            
+Twitter: @onebismark_
+
+                            
+Location: Kumasi, Ghana.
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Partner: Anthony Secops
+
+Site: https://anthonysecops.com
+
+Twitter: @anthonysecops
+
+Location: Milton Keynes, UK
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2025/04/05 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Javascript, Python.
+
+                            
+Software: GitHub CLI, VS Code.
+   
